@@ -1,4 +1,4 @@
-![image](https://github.com/Shivam0705/Infa-AI-Chatbot/assets/55856632/0920db8d-9482-4248-a183-75c69b1907ba)# Infa-AI-Chatbot Deployment with Flask and NLP
+#Infa-AI-Chatbot Deployment with Flask and NLP
 
 Any new User when once tried to access Customer 360 application might have a lot of Questions on the App and features that are available and what are the useful things here like.
 
@@ -16,4 +16,9 @@ This helps them  not to refer the documentation again and again and can continu
 This will streamline the gap between customers and features available and reduces the overhead time and increases productivity.
 
 ![image](https://github.com/Shivam0705/Infa-AI-Chatbot/assets/55856632/37c41b47-7aac-4881-82c5-ba30c347794c)
+
+Implementation:
+
+![image](https://github.com/Shivam0705/Infa-AI-Chatbot/assets/55856632/0a4d8466-087c-41d1-8255-f08d8990b622)
+
 
